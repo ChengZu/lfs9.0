@@ -1,5 +1,11 @@
 # lfs9.0
 
+
+
+```Bash
+wget http://mirror.jaleco.com/lfs/pub/lfs/lfs-packages/lfs-packages-9.0.tar
+```
+
 ```Bash
 su
 ```
@@ -38,6 +44,9 @@ logout
 ```Bash
 bash lfschroot.sh
 ```
+
+
+```Bash
 bash /sources/ch7-9.sh
 ```
 
