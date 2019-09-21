@@ -17,8 +17,10 @@ wget http://mirror.jaleco.com/lfs/pub/lfs/lfs-packages/lfs-packages-9.0.tar
 su
 ```
 执行2到4章内容
+
+sda5换成你要安装的硬盘分区名，分区格式ext4
 ```Bash
-bash ch2-4.sh sha5
+bash ch2-4.sh sda5
 ```
 执行5章内容
 ```Bash
@@ -68,4 +70,6 @@ update-grub
 
 
 lfs用户密码：lfs
+
+
 root用户密码：root
