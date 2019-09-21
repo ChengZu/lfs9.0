@@ -1,7 +1,14 @@
 # lfs9.0
 
+快速编译LFS9.0
+终端依次输入下面指令
 
+检查主机是否满足条件
+```Bash
+bash version-check.sh
+```
 
+下载源码包
 ```Bash
 wget http://mirror.jaleco.com/lfs/pub/lfs/lfs-packages/lfs-packages-9.0.tar
 ```
