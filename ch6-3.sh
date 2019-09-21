@@ -489,7 +489,7 @@ cd /sources
 rm -rf bash-5.0
 
 
-exec /bin/bash --login +h
+#exec /bin/bash --login +h
 ##############################################
 
 
@@ -1100,29 +1100,3 @@ chroot "$LFS" /usr/bin/env -i          \
 !
 
 echo "end ch6-3.sh"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
